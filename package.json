@@ -1,0 +1,19 @@
+{
+  "name": "@klaus-stein/js-helpers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringifyArray.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --file \"./test/main.js\""
+  },
+  "keywords": [],
+  "author": "Nick Pronev",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  }
+}
